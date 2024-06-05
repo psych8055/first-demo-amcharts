@@ -1,0 +1,31 @@
+body
+{
+    position: relative;
+    background: #000000;
+}
+#chartdiv
+{
+    width: 80% !important;
+    margin: 120px auto;
+}
+.timer, button 
+{
+    margin: 20px ;
+    position: fixed;
+    top: 0;
+    right: 0;
+    color: #ffffff;
+    font-family: inherit;
+}
+button
+{
+    top: 40px;
+    color: #000000;
+    padding: 8px 16px;
+    border-radius: 16px;
+}
+button:hover
+{
+    background-color: #000000;
+    color: #ffffff;
+}
